@@ -37,8 +37,8 @@
   <p>✅ Effective real-time detection of road objects.</p>
   <p>✅ Evaluation metrics:</p>
   <div style="text-align:center;">
-    <img src="link_to_confusion_matrix_image" width="45%" alt="Confusion Matrix">
-    <img src="link_to_f1_curve_image" width="45%" alt="F1 Curve">
+    <img src="runs/detect/train/confusion_matrix.png" width="45%" alt="Confusion Matrix">
+    <img src="runs/detect/train/F1_curve.png" width="45%" alt="F1 Curve">
   </div>
   <ul>
     <li><strong>Confusion Matrix:</strong> Shows the performance of the model by comparing predicted classes with true classes.</li>
